@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(59, 167, 125);
+}
+
+.task-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.tasks {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    list-style: none;
+}
